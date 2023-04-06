@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "name": "Get Fit",
+      "price": 50,
+      "features": [
+        "Gym equipment access",
+        "Group classes",
+        "Personalized workout plan"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Transform Body",
+      "price": 75,
+      "features": [
+        "Gym equipment access",
+        "Group classes",
+        "Personal training",
+        "Customized nutrition"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Achieve Goals",
+      "price": 100,
+      "features": [
+        "Gym equipment access",
+        "Group classes",
+        "Personal training",
+        "Customized nutrition",
+        "Wellness center access"
+      ]
+    }
+  ]
+  
+  
